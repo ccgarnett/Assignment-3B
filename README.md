@@ -2,7 +2,9 @@
 Test and Discover the Bugs
 Timeline
 Due Monday, Oct 20, 2025 11:59 pm
+
 Description
+
 To give everyone an opportunity to practice writing JUnit 5 test cases and to discover the bugs, you will do this assignment (Assignment 3B) individually. Here is what you need to do:
 Clone your assigned program, set it up, and run it.
 Write JUnit 5 tests for the code. Don’t forget to comment your test classes. Each class should have the author information and other javadoc and regular comments.
